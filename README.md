@@ -5,7 +5,7 @@ Hey, I’m Drshi! 👋
     🔗 Social Computing geek (2x research intern with SCUBA- social computing lab @ UIUC)
     🍄 UIUC Computer Science, Statistics
     🌱 Joys: singing, mtb, cooking w/fam
-    ▶️ Currently: Research @ HCI lab UIUC, SWE intern @ Cargill
+    ▶️ Currently: VR/AR Research @ HCI lab UIUC, SWE intern @ Cargill
     ⏪ Previously: Front-End dev intern @ Enterprise Works
     📍 Chicago, IL
 
