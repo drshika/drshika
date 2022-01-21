@@ -12,6 +12,6 @@ Hey, I’m Drshi! 👋
 Reach me:
 
     drshika.me
-    @drshika_ on Twitter
+    drshika_ on Twitter
     drshika2 at illinois.edu
     drshikaasher on LinkedIn
