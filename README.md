@@ -5,7 +5,7 @@ Hey, I’m Drshi! 👋
 > 🔗 Social Computing geek (2x research intern with SCUBA- social computing lab @ UIUC)   
 > 🍄 UIUC Computer Science, Statistics   
 > 🌱 Joys: singing, mtb, cooking w/fam   
-> ▶️ Currently: EPIC Lab @ Microsoft Research, VR/AR Research @ HCI lab UIUC
+> ▶️ Currently: EPIC Lab @ Microsoft Research, VR/AR Research @ HCI lab UIUC  
 > ⏪ Previously: Front-End dev intern @ Enterprise Works   
 > 📍 Chicago, IL   
 
