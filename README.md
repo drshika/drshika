@@ -1,6 +1,6 @@
 Hey, I’m Drshi! 👋
 
-(she/her)
+(she/they)
 
 > 🔗 Social Computing geek (2x research intern with SCUBA- social computing lab @ UIUC)     
 > 🍄 UIUC Computer Science, Philosophy  
