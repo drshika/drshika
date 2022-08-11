@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=drshika&color=blueviolet)  
 Hey, I’m Drshi! 👋
 
 (she/they)
