@@ -3,7 +3,7 @@ Hey, I’m Drshi! 👋
 (she/they)
 
 > 🔗 Social Computing geek (4x research intern with SCUBA- social computing lab @ UIUC)     
-> 🍄 UIUC Computer Science, Hoeft T&M 
+> 🍄 UIUC Computer Science, Hoeft T&M  
 > 🌱 Joys: singing, mtb, cooking w/fam   
 > ▶️ Currently: CBL Research Scholar, Head CA @ UIUC CS225 (Data Structures)   
 > ⏪ Previously: EPIC Lab @ Microsoft Research, VR/AR Research @ HCI lab UIUC, SWE Intern at Cargill  
