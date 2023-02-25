@@ -6,8 +6,8 @@ Hey, I’m Drshi! 👋
 > 🍄 UIUC Computer Science, Hoeft T&M  
 > 🌱 Joys: singing, mtb, cooking w/fam   
 > ▶️ Currently: SWE @ Uber    
-> ⏪ Previously: CBL Research Scholar, Head CA @ UIUC CS225 (Data Structures), EPIC Lab @ Microsoft Research, VR/AR Research @ HCI lab UIUC, SWE Intern at Cargill  
-> 📍 Chicago, IL   
+> ⏪ Previously: CBL Research Scholar, Head CA @ UIUC CS225 (Data Structures), EPIC Lab @ Microsoft Research, VR/AR Research @ HCI lab UIUC, SWE @ Cargill  
+> 📍 San Francisco, CA   
 
 Reach me:
 
