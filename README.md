@@ -1,13 +1,12 @@
 Hey, I’m Drshi! 👋
 
 (she/they)
-
-> 🔗 Social Computing geek (4x research intern with SCUBA- social computing lab @ UIUC)     
-> 🍄 UIUC Computer Science, Hoeft T&M  
+      
+> 🍄 UIUC Computer Science  
+> ▶️ Currently: 🦦
+> ⏪ Previously: SWE @ Uber, Research @ Microsoft, SWE @ Cargill
 > 🌱 Joys: singing, mtb, cooking w/fam   
-> ▶️ Currently: SWE @ Uber    
-> ⏪ Previously: CBL Research Scholar, Head CA @ UIUC CS225 (Data Structures), EPIC Lab @ Microsoft Research, VR/AR Research @ HCI lab UIUC, SWE @ Cargill  
-> 📍 San Francisco, CA   
+> 📍 New York, NY  
 
 Reach me:
 
