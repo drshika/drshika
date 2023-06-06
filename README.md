@@ -3,7 +3,7 @@ Hey, I’m Drshi! 👋
 (she/they)
       
 > 🍄 UIUC Computer Science  
-> ▶️ Currently: 🦦      
+> ▶️ Currently: SWE @ MongoDB      
 > ⏪ Previously: SWE @ Uber, Research @ Microsoft, SWE @ Cargill     
 > 🌱 Joys: singing, mtb, cooking w/fam   
 > 📍 New York, NY  
