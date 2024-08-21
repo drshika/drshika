@@ -2,11 +2,11 @@ Hey, I’m Drshi! 👋
 
 (she/they)
       
-> 🍄 UIUC Computer Science  
-> ▶️ Currently: 🦦📖      
-> ⏪ Previously: SWE @ MongoDB, SWE @ Uber, Research @ Microsoft, SWE @ Cargill     
+> 🍄 National Center for Supercomputing Applications
+> ▶️ Currently: Research Software Engineer    
+> ⏪ Previously: Undergrad @ UIUC, SWE @ MongoDB, SWE @ Uber, Research @ Microsoft, SWE @ Cargill     
 > 🌱 Joys: singing, mtb, cooking w/fam   
-> 📍 Champaign, IL
+> 📍 Brooklyn, New York
 
 Reach me:
 
