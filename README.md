@@ -10,7 +10,7 @@ Hey, I’m Drshi! 👋
 
 Reach me:
 
-> drshika.me   
+> drshika.com
 > drshika_ on Twitter   
 > drshika2 at illinois.edu   
 > drshikaasher on LinkedIn   
