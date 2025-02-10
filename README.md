@@ -11,6 +11,6 @@ Hey, I’m Drshi! 👋
 Reach me:
 
 > drshika.com   
-> drshika_ on X
+> drshika_ on X   
 > drshika2 at illinois.edu   
 > drshikaasher on LinkedIn   
