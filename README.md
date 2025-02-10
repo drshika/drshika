@@ -5,12 +5,12 @@ Hey, I’m Drshi! 👋
 > 🍄 National Center for Supercomputing Applications   
 > ▶️ Currently: Research Software Engineer    
 > ⏪ Previously: Undergrad @ UIUC, SWE @ MongoDB, SWE @ Uber, Research @ Microsoft, SWE @ Cargill     
-> 🌱 Joys: singing, mtb, baking
+> 🌱 Joys: singing, mtb, baking   
 > 📍 Brooklyn, New York
 
 Reach me:
 
 > drshika.com   
-> drshika_ on Twitter   
+> drshika_ on X
 > drshika2 at illinois.edu   
 > drshikaasher on LinkedIn   
